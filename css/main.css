@@ -9,6 +9,11 @@ footer {
     color: bisque;
     text-align: center;
 }
+/* this is the navigation styles */
+nav ul {
+    display: flex;
+    display: -webkit-flex;
+}
 
 .flex-container {
     display: flex;
