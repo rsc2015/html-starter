@@ -9,8 +9,7 @@ footer {
     color: bisque;
     text-align: center;
 }
-<!--added flex for ul to create horizontal list-->
-<!-- any unordered list inside the nav will have a flex-->
+/* this is the navigation styles */
 nav ul {
     display: flex;
     display: -webkit-flex;
